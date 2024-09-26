@@ -1,2 +1,4 @@
-# unitTestingAutomobiles
-A simple project that can do unit testing on a simple automobile simulator.
+# Unit Testing Automobiles
+
+Simple classes for some unit testing practice.
+
